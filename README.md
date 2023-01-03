@@ -1,4 +1,4 @@
-# relatorioDaReta
+# Relatório Da Reta
 
 ### Assistir ao vídeo de utilização do programa:
 
