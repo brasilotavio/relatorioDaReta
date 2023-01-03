@@ -4,4 +4,4 @@
 
 //Watch the program usage video:
 
-[![Relatório da Reta: Utilização](https://i9.ytimg.com/vi/Y1aHbM_r9Jc/mq1.jpg?sqp=CJzczp0G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLBMCoiiTQdcCBmjtw2r5cP6alBzHA&retry=4)](https://youtu.be/Y1aHbM_r9Jc "Relatório da Reta: Utilização")
+[![Relatório da Reta: Utilização](https://i9.ytimg.com/vi_webp/DEQB3DcUKTg/mq2.webp?sqp=CIiEz50G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLCrKNTRinnXutrSlN1_wTJyuGrHzw)](https://youtu.be/DEQB3DcUKTg "Relatório da Reta: Utilização")
