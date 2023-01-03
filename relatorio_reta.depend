@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664903864 source:c:\users\otávio\downloads\relatorio_reta\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<iomanip>
+	<tgmath.h>
+	<string>
+	<stdlib.h>
+	<ctime>
+
